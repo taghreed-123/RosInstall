@@ -60,4 +60,8 @@ ctrl + o
 source ~/.bashrc
 
 roslaunch robot_arm_pkg check_motors.launch
+
+
+
+
 <img width="398" alt="first" src="https://user-images.githubusercontent.com/74149870/182739547-60a76625-5687-4058-be0e-062cd7e356f1.png">
