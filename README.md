@@ -1,10 +1,15 @@
 # RosInstall
 
 installing Ros 
+
 1-	Need to install virtualbox from the link: https://www.virtualbox.org/wiki/Downloads
+
 2-	Download Ubuntu from the link: https://ubuntu.com/download/desktop
+
 Open the terminal and insert the command
+
 Install Ros from this instruction:
+
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 
 sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
